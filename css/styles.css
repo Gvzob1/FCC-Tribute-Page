@@ -1,0 +1,32 @@
+@import 'https://fonts.googleapis.com/css?family=Playfair+Display';
+
+html,body{
+  font-family: 'Playfair Display',serif;
+  text-align:center;
+  color:black;
+  background-color:#eedd9d;
+}
+
+hr {
+  display: block;
+  border-top: 3px solid black;
+}
+
+#image{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+}
+
+#img-caption{
+  font-style: italic;
+  font-size: 15px;
+}
+
+#headline {
+  font-size: 50px;
+}
